@@ -25,20 +25,23 @@ The viewer is implemented in Python using Tkinter.
 
 ## Screenshot
 
-![Simple HL7 Viewer](assets/SIMPLE_HL7_VIEWER_.png)
+![Simple HL7 Viewer](assets/SIMPLE_HL7_VIEWER.png)
 
 ---
 
 ## Project Structure
 
+```
 simple-hl7-viewer/
-├── assets/
-│ └── SIMPLE_HL7_VIEWER_.png
-├── sample_data/
-│ └── sample_adt.hl7
+│
 ├── hl7_viewer.py
 ├── hl7_parser.py
+├── sample_data/
+│   └── sample_adt.hl7
+├── assets/
+│   └── SIMPLE_HL7_VIEWER_.png
 └── README.md
+```
 
 ---
 
