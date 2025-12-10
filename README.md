@@ -24,7 +24,7 @@ The tool is developed in Python using Tkinter and is intended for educational an
 
 ## Screenshot
 
-![Simple HL7 Viewer](assets:SIMPLE_HL7_VIEWER_.png)
+![Simple HL7 Viewer](assets:/SIMPLE_HL7_VIEWER_.png)
 
 ---
 
